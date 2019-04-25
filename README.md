@@ -1,2 +1,2 @@
-# exrcise-car-api
+# exercise-car-api
 Simple test in order to rent a car concurrently
