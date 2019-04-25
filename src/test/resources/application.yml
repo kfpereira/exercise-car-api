@@ -1,0 +1,6 @@
+car:
+  welcome_message: "Welcome to Rent a Car APP - Test Mode"
+
+spring:
+  profiles:
+    active: test
